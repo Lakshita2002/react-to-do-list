@@ -9,6 +9,8 @@ A React native application that allows users to add, check off and delete items 
 <li>Filter out items on the basis of <b>Completed</b> and <b>Pending</b>
 </ol>
 
+![](/demo.png)
+
 ### Motivation 
 mr. peabody was bored after his endsem exams. He hadn't performed quite well in them. In fact he screwed up almost everything in the past semester.<br>
 Hence, mr. peabody decides to take his mind off from the stress of grades and CPI by doing random things for fun, and thus he decides to learn how to create a to-do-list application.
